@@ -11,7 +11,7 @@ MoneyCorp Automation Framework has files listed below :
 
 About Framework:
 1. Download IntelliJ and install.
-2. Clone the project from github using -
+2. Clone the project from github using - https://github.com/RajKamal3113/moneyCorpDemo
 3. Click code -> download zip file
 4. Open Intellij, and import the project
 5. Download all the Maven resources
